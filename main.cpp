@@ -1,6 +1,7 @@
-#include<iostream>
-#include"file.h"
-#include"lib/file.cpp"
+#include<stdio.h>
+#include<stdlib.h>
+
+#include <lib\GLFW\glfw3.h>
 using namespace std;
 
 int main(){
