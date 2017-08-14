@@ -1,0 +1,5 @@
+﻿  main.cpp
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  main.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  OpenGL_Game.vcxproj -> C:\Users\progi_000\Documents\GitHub\I-dont-learn-so-good\OpenGL_Game\Debug\OpenGL_Game.exe
+  OpenGL_Game.vcxproj -> C:\Users\progi_000\Documents\GitHub\I-dont-learn-so-good\OpenGL_Game\Debug\OpenGL_Game.pdb (Partial PDB)
