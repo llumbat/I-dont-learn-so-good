@@ -1,4 +1,0 @@
-C:\Users\progi_000\Documents\GitHub\I-dont-learn-so-good\main.cpp:4:28: fatal error: lib\GLFW\glfw3.h: No such file or directory
- #include <lib\GLFW\glfw3.h>
-                            ^
-compilation terminated.
